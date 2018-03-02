@@ -360,3 +360,25 @@ hild 20776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/sr
 [Child 20680, Ch
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1519991123859	geckodriver	INFO	geckodriver 0.19.1
+1519991123873	geckodriver	INFO	Listening on 127.0.0.1:44661
+1519991126976	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hbara\\AppData\\Local\\Temp\\rust_mozprofile.VVrI28A5Vjsa"
+Unable to read VR Path Registry from C:\Users\hbara\AppData\Local\openvr\openvrpaths.vrpath
+1519991129544	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hbara\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hbara\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hbara\AppData\Local\openvr\openvrpaths.vrpath
+1519991130745	Marionette	INFO	Listening on port 44669
+Unable to read VR Path Registry from C:\Users\hbara\AppData\Local\openvr\openvrpaths.vrpath
+1519991131091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519991176006	geckodriver	INFO	geckodriver 0.19.1
+1519991176013	geckodriver	INFO	Listening on 127.0.0.1:44706
+1519991179108	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hbara\\AppData\\Local\\Temp\\rust_mozprofile.kk1GV2sb9wjl"
+Unable to read VR Path Registry from C:\Users\hbara\AppData\Local\openvr\openvrpaths.vrpath
+1519991179604	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hbara\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hbara\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hbara\AppData\Local\openvr\openvrpaths.vrpath
+1519991180821	Marionette	INFO	Listening on port 44714
+Unable to read VR Path Registry from C:\Users\hbara\AppData\Local\openvr\openvrpaths.vrpath
+1519991181127	Marionette	WARN	TLS certificate errors will be ignored for this session

@@ -19,12 +19,21 @@ def get_price():
     print(cont)
 
 
-
-
 def main():
-    browser.implicitly_wait(4)
-    get_price()
-    browser.close()
+
+    while True:
+        case = input("Enter 1 if you want to exit or anything else for another url entry.")
+        if case == "1":
+            browser.close()
+            return
+        else:
+            # waiting for browser to open
+            try:
+                browser.implicitly_wait(2)
+                get_price()
+            except InvalidArgumentException:
+                print("Probably something wrong with url, try again.")
+                pass
 
 
 if __name__ == "__main__":
